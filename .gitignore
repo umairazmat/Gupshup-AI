@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and large data files
+models/
+audio/input_audio/
+audio/output_audio/
+
+# Log files
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python-specific
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+config/config.py
+
+# Colab-specific
+.ipynb_checkpoints/
