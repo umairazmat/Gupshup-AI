@@ -1,5 +1,6 @@
 # Gup Shup AI “Your AI-Powered Conversational Partner””
 
+// logo
 <img src="/public/Logo.png" >
 
 ## Description
